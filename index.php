@@ -10,6 +10,7 @@
   <meta name="data-spm" content="teamratu" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="https://hippocup.fkunud.com/" />
+  <meta name="google-site-verification" content="fGcTdi0Of2CrLqP6EzbpjM0tODDHfy2GHxe7rPbRRCo" />
   <meta name="og:title" content="SCATTER HITAM: Link Slot Gacor Mahjong Ways 1,2,3, Gratis Auto Scatter Hitam" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Selamat datang di platform penyedia games slot gacor yang menyediakan permainan games mahjong ways 1,2,3 dengan jaminan gratis auto scatter hitam " />
@@ -18,7 +19,6 @@
   <link rel="shortcut icon" href="https://marketplaces.creditcards.com/img/icon.png" />
   <link rel="canonical" href="https://hippocup.fkunud.com/" />
   <link rel="amphtml" href="https://amp-hippocup.web.app/" />
-  <meta name="google-site-verification" content="Gk8SokaHyaIe8v8REBn6NZciwWkhlJo3SC0KKxFqSsw" />
   <!-- start preload -->
   <link rel="preload" href="https://touchwork.pics/images/scatter-hitam-268ea38df5326def3.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
